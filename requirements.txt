@@ -1,0 +1,9 @@
+flask
+python-dotenv
+flask_sqlalchemy
+flask_login
+SQLAlchemy
+Werkzeug
+Pillow
+requests
+uuid
